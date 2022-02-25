@@ -13,6 +13,8 @@ Con Ardora se pueden crear distintas actividades interactivas como juegos de pal
 -  Disponible en varios idiomas 
 -  Permite exportar a formatos HTML y SCORM
 
+![image](https://user-images.githubusercontent.com/100105228/155635550-d83fb61e-9f29-4040-80db-842f42735faf.png)
+
 
 ## ¿Qué es ExeLearning?
 ExeLearning es una herramienta multiplataforma la cual cuenta con una licencia en Open Source, su estructura se basa principalmente en el enfoque al diseño y producción de contenido educativo pero sin tener que ser un profesional en programación , HTML o XML.
