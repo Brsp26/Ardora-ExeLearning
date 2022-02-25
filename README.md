@@ -58,8 +58,6 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 Para la creación de este proyecto utilizamos un  crucigrama como  objeto de estudio de Python de este modo  sea interactivo para el usuario y a su vez pueda aprender algunos temas de Python de una forma sencilla y diferente. Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizontal y vertical.  
 Para crear un crucigrama en Ardora 9, damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas.  
 
-![Ardora-Imagen](https://user-images.githubusercontent.com/100105228/155657949-38db0405-4cc9-4b52-82e6-e25e53bc773e.PNG)
-
 ![image](https://user-images.githubusercontent.com/100105228/155657871-65c1c877-a3cf-4cc8-8e03-af32cb1e6061.png)
 
 En actividad escogemos las filas y columnas según vayamos a necesitar y ponemos los enunciados correspondientes. 
