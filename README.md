@@ -31,8 +31,9 @@ Esta magnífica herramienta nos ofrece una gran variedad de elementos y contenid
 
 # Como descargar Ardora y ExeLearning : 
 ## Ardora:
-Para descargar Ardora puede dar clic en el siguiente link:  http://webardora.net/index_cas.htm  donde le llevara a la página  de Ardora versión 9.
-Dar clic en descargar Ardora 9  y seleccione su sistema operativo. 
+Para descargar Ardora puede dar clic en el siguiente link:  http://webardora.net/index_cas.htm  
+
+Donde le llevara a la página  de Ardora versión 9 , seleccione  descargar Ardora 9 y escoga según su sistema operativo. 
 
 ![image](https://user-images.githubusercontent.com/100105228/155636556-25808bc0-a490-4e4e-9b1c-8948835ef91d.png)
 
@@ -40,9 +41,9 @@ Dar clic en descargar Ardora 9  y seleccione su sistema operativo.
 
 
 ## ExeLearning: 
-Ingrese al siguiente link: https://exelearning.net/ 
+Para descargar ExeLearning ingrese al siguiente link: https://exelearning.net/ 
 
-una vez que se encuentre en la pagina principal escoga la opción descargas y seleccione  la versión de Exelearning que sea compatible con su sistema operativo.
+Una vez que se encuentre en la pagina principal escoga la opción descargas y seleccione  la versión de Exelearning que sea compatible con su sistema operativo.
 
 ![image](https://user-images.githubusercontent.com/100105228/155636836-cb351621-fe32-44eb-82c8-7756c5a87609.png)
 
