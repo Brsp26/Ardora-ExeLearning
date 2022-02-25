@@ -55,24 +55,20 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 # Proyecto Ardora - Crucigrama 
 
-Para crear un crucigrama en Ardora 9 , damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas. En actividad escogemos las filas y colummas según vayamos a necesitar , también ponemos los enunciados correspondientes ya sea  horizontales o verticales.
+Para la creación de este proyecto utilizamos un objeto de estudio de Python en un crucigrama para que este objeto de estudio sea interactivo para el usuario y a su vez pueda aprender algunos temas de Python de una forma sencilla y diferente. Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizontal y vertical.  
 
-Observamos algunos pasos para la creación de crucigramas en Ardora pero tambien podemos ver un tutorial acerca de este crucigrama que se encuentra en la ultima parte para que tengamos una idea de este proyecto en Ardora.
+![Ahorcado Imagen](https://user-images.githubusercontent.com/100105228/155657806-742113d1-5db8-42ca-a9de-b50cb0402b02.PNG)
 
- 
-![image](https://user-images.githubusercontent.com/100105228/155654365-4c8edd1b-dac3-441e-a4b4-37c0e7add0a5.png)
+Para crear un crucigrama en Ardora 9, damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas. En actividad escogemos las filas y columnas según vayamos a necesitar, también ponemos los enunciados correspondientes. 
 
-![image](https://user-images.githubusercontent.com/100105228/155654385-9a1caa5c-3bf5-478e-bdd3-e09b68cf2808.png)
+![image](https://user-images.githubusercontent.com/100105228/155657871-65c1c877-a3cf-4cc8-8e03-af32cb1e6061.png)
+
+
+
 
 
 
 # Proyecto ExeLearning - Ahorcado
-
-
-![image](https://user-images.githubusercontent.com/100105228/155655178-9bd5d068-0b47-4df2-9be3-5a790cbea98d.png)
-
-![image](https://user-images.githubusercontent.com/100105228/155654028-93cf4873-a18a-469f-9fe7-a7960762d861.png)
-![image](https://user-images.githubusercontent.com/100105228/155654037-7fd9afd3-48e0-486c-baf8-6f24e5a14c0d.png)
 
 
 
