@@ -31,7 +31,7 @@ Esta magnífica herramienta nos ofrece una gran variedad de elementos y contenid
 
 ![image](https://user-images.githubusercontent.com/100105228/155636018-62684300-8206-46af-83c1-eb06c1700358.png)
 
-# Como descargar Ardora y ExeLearning : 
+# Como descargar Ardora y ExeLearning
 ## Ardora:
 Para descargar Ardora puede dar clic en el siguiente link:  http://webardora.net/index_cas.htm  
 
@@ -54,5 +54,5 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 
 
-### Enlace al video de propuestas de Ardora y ExeLearning
+### Enlace al video de propuestas de Ardora y ExeLearning: 
 
