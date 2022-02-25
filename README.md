@@ -71,7 +71,6 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 ![image](https://user-images.githubusercontent.com/100105228/155655080-4aea322d-0f20-4735-8187-65b4271b4cbe.png)
 
-
 ![image](https://user-images.githubusercontent.com/100105228/155654028-93cf4873-a18a-469f-9fe7-a7960762d861.png)
 ![image](https://user-images.githubusercontent.com/100105228/155654037-7fd9afd3-48e0-486c-baf8-6f24e5a14c0d.png)
 
