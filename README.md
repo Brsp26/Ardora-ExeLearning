@@ -40,7 +40,7 @@ Dar clic en descargar Ardora 9  y seleccione su sistema operativo.
 
 
 ## ExeLearning: 
-Diríjase al apartado links de descargas  y seleccione la versión de Exelearning que sea compatible con su sistema operativo.
+Diríjase al apartado links de descargas http://webardora.net/index_cas.htm  y seleccione la versión de Exelearning que sea compatible con su sistema operativo.
 
 ![image](https://user-images.githubusercontent.com/100105228/155636836-cb351621-fe32-44eb-82c8-7756c5a87609.png)
 
