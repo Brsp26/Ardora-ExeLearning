@@ -59,10 +59,12 @@ Para la creación de este proyecto utilizamos un  crucigrama como  objeto de est
 
 ![Ardora-Imagen](https://user-images.githubusercontent.com/100105228/155657949-38db0405-4cc9-4b52-82e6-e25e53bc773e.PNG)
 
-Para crear un crucigrama en Ardora 9, damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas. En actividad escogemos las filas y columnas según vayamos a necesitar, también ponemos los enunciados correspondientes. 
+Para crear un crucigrama en Ardora 9, damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas. 
+En actividad escogemos las filas y columnas según vayamos a necesitar, también ponemos los enunciados correspondientes. 
 
 ![image](https://user-images.githubusercontent.com/100105228/155657871-65c1c877-a3cf-4cc8-8e03-af32cb1e6061.png)
 
+![Crucigrama Imagen](https://user-images.githubusercontent.com/100105228/155658148-057cd40b-97fd-4151-b296-051a6482938b.PNG)
 
 
 
