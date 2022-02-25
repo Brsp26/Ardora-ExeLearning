@@ -57,8 +57,7 @@ Para crear un crucigrama en Ardora 9, damos clic en Archivo , nueva actividad , 
 ![image](https://user-images.githubusercontent.com/100105228/155657871-65c1c877-a3cf-4cc8-8e03-af32cb1e6061.png)
 
 En actividad escogemos las filas y columnas según vayamos a necesitar y ponemos los enunciados correspondientes. 
-Para saber más de este proyecto en Ardora podemos ubicarnos en  [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
-donde podemos conocer paso a paso como crear un crucigrama en Ardora. 
+Para saber más de este proyecto en Ardora podemos ubicarnos en: [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 
 ![image](https://user-images.githubusercontent.com/100105228/155660478-2a7012c6-4282-4a26-b77e-f8f84f31fc83.png)
 
