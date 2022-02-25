@@ -66,6 +66,14 @@ Para saber más de este proyecto en Ardora podemos ubicarnos en: [video de propu
 # Proyecto ExeLearning - Ahorcado
 
 
+![image](https://user-images.githubusercontent.com/100105228/155748116-abd84236-ad0a-4fff-860b-42c5586929e7.png)
+
+
+
+
+![Ahorcado Imagen](https://user-images.githubusercontent.com/100105228/155748037-19097b22-31be-4a64-aaa7-b139139c898f.PNG)
+
+
 
 
 
