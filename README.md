@@ -52,5 +52,5 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 
 
-### Enlace al video de propuestas de Ardora y ExeLearning:
+### Enlace al video de propuestas de Ardora y ExeLearning
 
