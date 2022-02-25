@@ -64,7 +64,7 @@ En actividad escogemos las filas y columnas según vayamos a necesitar y ponemos
 Para saber más de este proyecto en Ardora podemos ubicarnos en  [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 donde podemos conocer paso a paso como crear un crucigrama en Ardora. 
 
-![Crucigrama Imagen](https://user-images.githubusercontent.com/100105228/155658148-057cd40b-97fd-4151-b296-051a6482938b.PNG)
+![image](https://user-images.githubusercontent.com/100105228/155660478-2a7012c6-4282-4a26-b77e-f8f84f31fc83.png)
 
 
 
