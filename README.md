@@ -39,7 +39,7 @@ Donde le llevara a la página  de Ardora versión 9 , seleccione  descargar Ardo
 
 ![image](https://user-images.githubusercontent.com/100105228/155636556-25808bc0-a490-4e4e-9b1c-8948835ef91d.png)
 
-![image](https://user-images.githubusercontent.com/100105228/155651523-b0911143-1143-4e87-919e-9f05d45763d5.png)
+![image](https://user-images.githubusercontent.com/100105228/155651565-65f4c94e-ed68-4262-b8c7-2d968088052f.png)
 
 
 ## ExeLearning: 
