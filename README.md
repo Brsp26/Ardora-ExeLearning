@@ -55,6 +55,9 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 # Proyecto Ardora - Crucigrama 
 
+![image](https://user-images.githubusercontent.com/100105228/155654365-4c8edd1b-dac3-441e-a4b4-37c0e7add0a5.png)
+
+![image](https://user-images.githubusercontent.com/100105228/155654385-9a1caa5c-3bf5-478e-bdd3-e09b68cf2808.png)
 
 
 
