@@ -43,7 +43,7 @@ Donde le llevara a la página  de Ardora versión 9 , seleccione  descargar Ardo
 ## ExeLearning: 
 Para descargar ExeLearning ingrese al siguiente link: https://exelearning.net/ 
 
-Una vez que se encuentre en la pagina principal escoga la opción descargas y seleccione  la versión de Exelearning que sea compatible con su sistema operativo.
+Una vez que se encuentre en la página principal escoga la opción descargas y seleccione  la versión de Exelearning que sea compatible con su sistema operativo.
 
 ![image](https://user-images.githubusercontent.com/100105228/155636836-cb351621-fe32-44eb-82c8-7756c5a87609.png)
 
