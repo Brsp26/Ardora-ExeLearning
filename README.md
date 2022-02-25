@@ -55,11 +55,11 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 # Proyecto Ardora - Crucigrama 
 
-Para crear un crucigrama en Ardora 9  , damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos  la opción de crucigramas.
-En actividad escogemos las filas y colummas según vayamos a necesitar , también ponemos los enunciados correspondientes ya sea en horizontales y verticales. 
+Para crear un crucigrama en Ardora 9 , damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas. En actividad escogemos las filas y colummas según vayamos a necesitar , también ponemos los enunciados correspondientes ya sea en horizontales y verticales.
 
-Observamos algunos pasos para la creación de crucigramas en Ardora pero tambien podemos ver un tutorial acerca de este crucigrama que se encuentra en la ultima parte para que tengamos una idea de este proyecto en Ardora. 
+Observamos algunos pasos para la creación de crucigramas en Ardora pero tambien podemos ver un tutorial acerca de este crucigrama que se encuentra en la ultima parte para que tengamos una idea de este proyecto en Ardora.
 
+ 
 ![image](https://user-images.githubusercontent.com/100105228/155654365-4c8edd1b-dac3-441e-a4b4-37c0e7add0a5.png)
 
 ![image](https://user-images.githubusercontent.com/100105228/155654385-9a1caa5c-3bf5-478e-bdd3-e09b68cf2808.png)
