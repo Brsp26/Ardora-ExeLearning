@@ -2,7 +2,7 @@
 
 ### Proyecto Ardora y  ExeLearning :  Objetos de estudios acerca de Python 
 
-### ¿Qué es ardora?
+## ¿Qué es ardora?
 Ardora es una aplicación informática que permite la creación de contenidos de un modo muy sencillo sin la necesidad de tener conocimientos técnicos de diseño o programación web. 
 
 Con Ardora se pueden crear distintos de actividades interactivas como juegos de palabras, actividades con gráfico, relacionar completar, clasificar, ordenar y hacer gráficos estadísticos también tiene página multimedia como libros, pizarras, reproductor de audio y sonido a su vez paginas en servidor como gestión de usuarios, anotaciones colectivas incluso escritorios virtuales entre otras.
