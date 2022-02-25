@@ -5,7 +5,7 @@
 ## ¿Qué es ardora?
 Ardora es una aplicación informática que permite la creación de contenidos de un modo muy sencillo sin la necesidad de tener conocimientos técnicos de diseño o programación web. 
 
-Con Ardora se pueden crear distintos de actividades interactivas como juegos de palabras, actividades con gráfico, relacionar completar, clasificar, ordenar y hacer gráficos estadísticos también tiene página multimedia como libros, pizarras, reproductor de audio y sonido a su vez paginas en servidor como gestión de usuarios, anotaciones colectivas incluso escritorios virtuales entre otras.
+Con Ardora se pueden crear distintas actividades interactivas como juegos de palabras, actividades con gráfico, relacionar completar, clasificar, ordenar y hacer gráficos estadísticos también tiene página multimedia como libros, pizarras, reproductor de audio y sonido a su vez paginas en servidor como gestión de usuarios, anotaciones colectivas incluso escritorios virtuales entre otras.
 
 ### Ventajas: 
 -  Fácil de usar
@@ -19,7 +19,7 @@ Con Ardora se pueden crear distintos de actividades interactivas como juegos de 
 
 
 ## ¿Qué es ExeLearning?
-ExeLearning es una herramienta multiplataforma, la cual cuenta con una licencia en Open Source, su estructura se basa principalmente en el enfoque al diseño y producción de contenido educativo, pero sin tener que ser un profesional en programación o en HTML Y XML.
+ExeLearning es una herramienta multiplataforma la cual cuenta con una licencia en Open Source, su estructura se basa principalmente en el enfoque al diseño y producción de contenido educativo pero sin tener que ser un profesional en programación , HTML o XML.
 
 Esta magnífica herramienta nos ofrece una gran variedad de elementos y contenido para utilizar como por ejemplo los gráficos, videos, juegos, actividades interactivas, pruebas de lectura, evaluaciones, etc. Como punto fuerte todos los proyectos que son desarrollados en la aplicación Exelearning pueden ser exportados en HTML, IMS, SCORM, etc.
 
