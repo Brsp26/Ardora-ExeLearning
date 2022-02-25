@@ -55,7 +55,7 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 # Proyecto Ardora - Crucigrama 
 
-Para la creación de este proyecto utilizamos un objeto de estudio de Python en un crucigrama para que este objeto de estudio sea interactivo para el usuario y a su vez pueda aprender algunos temas de Python de una forma sencilla y diferente. Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizontal y vertical.  
+Para la creación de este proyecto utilizamos un  crucigrama como  objeto de estudio de Python de este modo  sea interactivo para el usuario y a su vez pueda aprender algunos temas de Python de una forma sencilla y diferente. Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizontal y vertical.  
 
 ![Ardora-Imagen](https://user-images.githubusercontent.com/100105228/155657949-38db0405-4cc9-4b52-82e6-e25e53bc773e.PNG)
 
