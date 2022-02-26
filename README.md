@@ -60,7 +60,7 @@ Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizon
 ![image](https://user-images.githubusercontent.com/100105228/155657871-65c1c877-a3cf-4cc8-8e03-af32cb1e6061.png)
 
 En actividad escogemos las filas y columnas según vayamos a necesitar y ponemos los enunciados correspondientes. 
-Para saber más de este proyecto en Ardora podemos ubicarnos en: [video de Propuestas de Ardora y ExeLearning] 
+Para saber más de este proyecto en Ardora podemos ubicarnos en: [video de Propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning/blob/main/README.md#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 
 ![image](https://user-images.githubusercontent.com/100105228/155747599-15a46347-0063-442b-abc8-feefa0871df9.png)
 
