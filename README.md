@@ -1,4 +1,4 @@
-# Ardora-ExeLearning
+# Ardora-eXeLearning
 
 ### Proyecto Ardora y  ExeLearning: Objetos de estudios acerca de Python 
 
@@ -16,8 +16,8 @@ Con Ardora se pueden crear distintas actividades interactivas como juegos de pal
 ![image](https://user-images.githubusercontent.com/100105228/155635550-d83fb61e-9f29-4040-80db-842f42735faf.png)
 
 
-## ¿Qué es ExeLearning?
-ExeLearning es una herramienta multiplataforma la cual cuenta con una licencia en Open Source, su estructura se basa principalmente en el enfoque al diseño y producción de contenido educativo pero sin tener que ser un profesional en programación , HTML o XML.
+## ¿Qué es eXeLearning?
+eXeLearning es una herramienta multiplataforma la cual cuenta con una licencia en Open Source, su estructura se basa principalmente en el enfoque al diseño y producción de contenido educativo pero sin tener que ser un profesional en programación , HTML o XML.
 
 Esta magnífica herramienta nos ofrece una gran variedad de elementos y contenido para utilizar como por ejemplo los gráficos, videos, juegos, actividades interactivas, pruebas de lectura, evaluaciones, etc. Como punto fuerte todos los proyectos que son desarrollados en la aplicación Exelearning pueden ser exportados en HTML, IMS, SCORM, etc.
 
@@ -30,7 +30,7 @@ Esta magnífica herramienta nos ofrece una gran variedad de elementos y contenid
 ![image](https://user-images.githubusercontent.com/100105228/155636018-62684300-8206-46af-83c1-eb06c1700358.png)
 
 
-# Como descargar Ardora y ExeLearning
+# Como descargar Ardora y eXeLearning
 ## Ardora:
 Para descargar Ardora puede dar clic en el siguiente link:  http://webardora.net/index_cas.htm  
 Donde le llevara a la página  de Ardora versión 9 , seleccione  descargar Ardora 9 y descargue según su sistema operativo. 
@@ -40,7 +40,7 @@ Donde le llevara a la página  de Ardora versión 9 , seleccione  descargar Ardo
 ![image](https://user-images.githubusercontent.com/100105228/155651565-65f4c94e-ed68-4262-b8c7-2d968088052f.png)
 
 
-## ExeLearning: 
+## eXeLearning: 
 Para descargar ExeLearning ingrese al siguiente link: https://exelearning.net/ 
 Una vez que se encuentre en la página principal escoga la opción descargas y seleccione  la versión de Exelearning que sea compatible con su sistema operativo.
 
@@ -64,7 +64,7 @@ crucigrama en Ardora versión 9,  damos clic en Archivo , nueva actividad , jueg
 Podemos ir seleccionado los enunciados o preguntas para ingresar la respuesta correspondiente en nuestro crucigrama, si la respuesta es correcta mostrara un mensaje de 
 felicitaciones y si la respuesta es incorrecta o está mal ingresada volverá a ingresar su respuesta. 
 
-Para conocer más de este proyecto en ardora podemos ubicarnos en la sección: [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
+Para conocer más de este proyecto en ardora podemos ubicarnos en la sección: [video de propuestas de Ardora y eXeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 
 ![image](https://user-images.githubusercontent.com/100105228/155747599-15a46347-0063-442b-abc8-feefa0871df9.png)
 
@@ -87,7 +87,7 @@ preguntas.
 Al momento de tener creada la actividad leeremos las preguntas y contestaremos evitando equivocarnos de lo contrario perderemos, pero si lo logramos presionaremos la casilla
 otra palabra y continuaremos el juego.  
 
-Para saber más de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y ExeLearning]  (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
+Para saber más de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y eXeLearning]  (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 
 
 ![Ahorcado Imagen](https://user-images.githubusercontent.com/100105228/155748037-19097b22-31be-4a64-aaa7-b139139c898f.PNG)
@@ -95,5 +95,5 @@ Para saber más de este proyecto en eXeLearning podremos ubicarnos en [video de 
 
 
 
-### Enlace al video de propuestas de Ardora y ExeLearning: 
+### Enlace al video de propuestas de Ardora y eXeLearning: 
 
