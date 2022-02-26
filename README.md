@@ -63,6 +63,7 @@ crucigrama en Ardora versión 9,  damos clic en Archivo , nueva actividad , jueg
 
 Podemos ir seleccionado los enunciados o preguntas para ingresar la respuesta correspondiente en nuestro crucigrama, si la respuesta es correcta mostrara un mensaje de 
 felicitaciones y si la respuesta es incorrecta o está mal ingresada volverá a ingresar su respuesta. 
+
 Para conocer más de este proyecto en ardora podemos ubicarnos en la sección: [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 
 ![image](https://user-images.githubusercontent.com/100105228/155747599-15a46347-0063-442b-abc8-feefa0871df9.png)
