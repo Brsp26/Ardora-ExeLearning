@@ -65,14 +65,21 @@ Para saber más de este proyecto en Ardora podemos ubicarnos en: [video de propu
 
 # Proyecto ExeLearning - Ahorcado
 
-La tecnología es muy versátil y eficaz, debido a esto llegamos a la conclusión de qué mejor manera de aprovechar su eficacia que con el estudio de temas ya previamente aprendidos por un estudiante de alguna materia en específico. Para poder evaluar sus conocimientos decidimos hacer uso de una herramienta llamada eXeLearning, la cual nos permite crear proyectos por medio de la producción de un objeto pedagógico estructurado, para este ejemplo realizaremos una actividad enfocada principalmente a los conceptos basados en el lenguaje de programación Python.
-Se decidió crear un objeto de aprendizaje llamado el Ahorcado el cual consta de 15 preguntas en forma conceptual. Para la creación de este objeto se necesito de la instalación de eXeLearning y su configuración, luego nos dirigirnos a la parte inferior izquierda y daremos clic en texto, seguidamente nos saldrá un recuadro con varias herramientas, pero nosotros presionaremos el apartado insertar, por último, seleccionaremos el juego del Ahorcado luego configuraremos varios parámetros y escribiremos todas nuestras preguntas.
+La tecnología es muy versátil y eficaz, debido a esto llegamos a la conclusión de qué mejor manera de aprovechar su eficacia que con el estudio de temas ya previamente 
+aprendidos por un estudiante de alguna materia en específico. 
+Para poder evaluar sus conocimientos decidimos hacer uso de una herramienta llamada eXeLearning, la cual nos permite crear proyectos por medio de la producción de un objeto 
+pedagógico estructurado, para este ejemplo realizaremos una actividad enfocada principalmente a los conceptos basados en el lenguaje de programación Python.
+
+Se decidió crear un objeto de aprendizaje llamado el Ahorcado el cual consta de 15 preguntas en forma conceptual. Para la creación de este objeto se necesito de la instalación
+de eXeLearning y su configuración, luego nos dirigirnos a la parte inferior izquierda y daremos clic en texto, seguidamente nos saldrá un recuadro con varias herramientas, pero
+nosotros presionaremos el apartado insertar, por último, seleccionaremos el juego del Ahorcado luego configuraremos varios parámetros y escribiremos todas nuestras preguntas.
 
 
 ![image](https://user-images.githubusercontent.com/100105228/155748116-abd84236-ad0a-4fff-860b-42c5586929e7.png)
 
 
-Al momento de tener creada la actividad leeremos las preguntas y contestaremos evitando equivocarnos de lo contrario perderemos, pero si lo logramos presionaremos la casilla otra palabra y continuaremos el juego.  Para saber mas de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
+Al momento de tener creada la actividad leeremos las preguntas y contestaremos evitando equivocarnos de lo contrario perderemos, pero si lo logramos presionaremos la casilla
+otra palabra y continuaremos el juego.  Para saber mas de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 
 
 ![Ahorcado Imagen](https://user-images.githubusercontent.com/100105228/155748037-19097b22-31be-4a64-aaa7-b139139c898f.PNG)
