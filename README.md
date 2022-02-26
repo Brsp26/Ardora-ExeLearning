@@ -83,9 +83,6 @@ preguntas.
 Al momento de tener creada la actividad leeremos las preguntas y contestaremos evitando equivocarnos de lo contrario perderemos, pero si lo logramos presionaremos la casilla
 otra palabra y continuaremos el juego.  Para saber mas de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y ExeLearning] (# Proyecto Ardora - Crucigrama 
 
-![image](https://user-images.githubusercontent.com/100105228/155747599-15a46347-0063-442b-abc8-feefa0871df9.png)
-
-
 
 ![Ahorcado Imagen](https://user-images.githubusercontent.com/100105228/155748037-19097b22-31be-4a64-aaa7-b139139c898f.PNG)
 
