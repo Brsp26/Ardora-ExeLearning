@@ -95,5 +95,5 @@ Para saber más de este proyecto en Ardora podemos ubicarnos en: [video de propu
 
 
 
-### Enlace al video de propuestas de Ardora y ExeLearning: 
+### Enlace al video de Propuestas de Ardora y ExeLearning: 
 
