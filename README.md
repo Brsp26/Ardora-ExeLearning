@@ -70,7 +70,7 @@ aprendidos por un estudiante de alguna materia en específico. Para poder evalua
 basados en el lenguaje de programación Python.
 
 Se decidió crear un objeto de aprendizaje llamado el Ahorcado el cual consta de 15 preguntas en forma conceptual. Para la creación de este objeto se necesito de la instalación
-de eXeLearning y su configuración, luego nos dirigirnos a la parte inferior izquierda y daremos clic en texto, seguidamente nos saldrá un recuadro con varias herramientas,
+de eXeLearning y su configuración, luego nos dirigirnos a  la parte inferior izquierda y daremos clic en texto, seguidamente nos saldrá un recuadro con varias herramientas,
 pero nosotros presionaremos el apartado insertar, por último, seleccionaremos el juego del Ahorcado luego configuraremos varios parámetros y escribiremos todas nuestras
 preguntas.
 
