@@ -83,15 +83,6 @@ preguntas.
 Al momento de tener creada la actividad leeremos las preguntas y contestaremos evitando equivocarnos de lo contrario perderemos, pero si lo logramos presionaremos la casilla
 otra palabra y continuaremos el juego.  Para saber mas de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y ExeLearning] (# Proyecto Ardora - Crucigrama 
 
-Para la creación de este proyecto utilizamos un  crucigrama como  objeto de estudio acerca del lenguaje de programación de  Python de este modo  permita que sea interactivo para
-el usuario y a su vez pueda conocer algunos temas específicos de uan manera sencilla y diferente. 
-Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizontal y vertical.  Para crear un crucigrama en Ardora 9, damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas.  
-
-![image](https://user-images.githubusercontent.com/100105228/155657871-65c1c877-a3cf-4cc8-8e03-af32cb1e6061.png)
-
-En actividad escogemos las filas y columnas según vayamos a necesitar y ponemos los enunciados correspondientes. 
-Para saber más de este proyecto en Ardora podemos ubicarnos en: [video de Propuestas de Ardora y ExeLearning] 
-
 ![image](https://user-images.githubusercontent.com/100105228/155747599-15a46347-0063-442b-abc8-feefa0871df9.png)
 
 
