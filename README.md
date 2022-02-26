@@ -70,7 +70,7 @@ Para conocer más de este proyecto en ardora podemos ubicarnos en la sección: [
 
 
 
-# Proyecto ExeLearning - Ahorcado
+# Proyecto eXeLearning - Ahorcado
 
 La tecnología es muy versátil y eficaz, debido a esto llegamos a la conclusión de qué mejor manera de aprovechar su eficacia que con el estudio de temas ya previamente
 aprendidos por un estudiante de alguna materia en específico. Para poder evaluar sus conocimientos decidimos hacer uso de una herramienta llamada eXeLearning, la cual nos permite crear proyectos por medio de la producción de un objeto pedagógico estructurado, para este ejemplo realizaremos una actividad enfocada principalmente a los conceptos 
