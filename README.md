@@ -85,7 +85,9 @@ preguntas.
 
 
 Al momento de tener creada la actividad leeremos las preguntas y contestaremos evitando equivocarnos de lo contrario perderemos, pero si lo logramos presionaremos la casilla
-otra palabra y continuaremos el juego.  Para saber mas de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y ExeLearning]  (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
+otra palabra y continuaremos el juego.  
+
+Para saber más de este proyecto en eXeLearning podremos ubicarnos en [video de propuestas de Ardora y ExeLearning]  (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
 
 
 ![Ahorcado Imagen](https://user-images.githubusercontent.com/100105228/155748037-19097b22-31be-4a64-aaa7-b139139c898f.PNG)
