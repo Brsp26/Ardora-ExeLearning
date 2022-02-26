@@ -50,6 +50,7 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 
 
 
+
 # Proyecto ExeLearning - Ahorcado
 
 La tecnología es muy versátil y eficaz, debido a esto llegamos a la conclusión de qué mejor manera de aprovechar su eficacia que con el estudio de temas ya previamente
