@@ -54,19 +54,16 @@ Una vez que se encuentre en la página principal escoga la opción descargas y s
 # Proyecto Ardora - Crucigrama 
 
 Ardora nos permite crear diferentes actividades interactivas como métodos de aprendizaje que son fáciles de usar. En este caso para la creación de nuestro objeto de estudio o 
-aprendizaje se escogió un crucigrama ya que es una manera sencilla y diferente de conocer temas enfocados al lenguaje de programación Python.
+aprendizaje se escogió un crucigrama ya que es una forma sencilla y diferente de conocer temas enfocados al lenguaje de programación Python.
 
-Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizontal y vertical con su debido tiempo, numero de aciertos y numero de fallos. En el cual funciona 
-seleccionado los enunciados o preguntas para ingresar la respuesta correspondiente en nuestro crucigrama, si la respuesta es correcta mostrara un mensaje de felicitaciones y si 
-la respuesta es incorrecta o está mal ingresada volverá a ingresar su respuesta.
-
-Para crear un crucigrama en Ardora versión 9,  damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas y procedemos a realizar nuestra actividad de aprendizaje en 4 sencillos pasos. 
+Se creo un crucigrama con 15 filas y 15 columnas con enunciados de forma horizontal y vertical con su debido tiempo, número de aciertos y número de fallos. Para crear un 
+crucigrama en Ardora versión 9,  damos clic en Archivo , nueva actividad , juegos de palabras y seleccionamos la opción de crucigramas y procedemos a realizar nuestra actividad de aprendizaje en 4 sencillos pasos. 
 
 ![image](https://user-images.githubusercontent.com/100105228/155657871-65c1c877-a3cf-4cc8-8e03-af32cb1e6061.png)
 
-
+Podemos ir seleccionado los enunciados o preguntas para ingresar la respuesta correspondiente en nuestro crucigrama, si la respuesta es correcta mostrara un mensaje de 
+felicitaciones y si la respuesta es incorrecta o está mal ingresada volverá a ingresar su respuesta. 
 Para conocer más de este proyecto en ardora podemos ubicarnos en la sección: [video de propuestas de Ardora y ExeLearning] (https://github.com/Brsp26/Ardora-ExeLearning#enlace-al-video-de-propuestas-de-ardora-y-exelearning)
-
 
 ![image](https://user-images.githubusercontent.com/100105228/155747599-15a46347-0063-442b-abc8-feefa0871df9.png)
 
