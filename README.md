@@ -95,5 +95,5 @@ Para saber más de este proyecto en eXeLearning podremos ubicarnos en [video de 
 
 
 
-### Enlace al video de propuestas de Ardora y eXeLearning: https://youtu.be/mQDLG3XQWW4
+### Enlace al video de propuestas de Ardora y eXeLearning: https://www.youtube.com/watch?v=mQDLG3XQWW4
 
